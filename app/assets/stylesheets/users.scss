@@ -1,0 +1,138 @@
+// Place all the styles related to the Users controller here.
+// They will automatically be included in application.scss.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+/*
+.body {
+  font-family: Arial;
+  //padding: 100px;
+  background: image_url("sunsetBackground.jpg") no-repeat center;
+  background-attachment: fixed;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Header/Blog Title */
+/*
+.header {
+
+  text-align: center;
+  background: transparent;
+}
+
+.header h1 {
+  font-size: 50px;
+}
+
+
+/* Create two unequal columns that floats next to each other */
+/* Left column */
+/*
+.leftcolumn {
+  float: left;
+  width: 75%;
+  padding-left: 375px;
+}
+
+/* Right column */
+/*
+.rightcolumn {
+  float: right;
+  width: 20%;
+  padding-left: 0px;
+}
+
+/* Fake image */
+/*
+.fakeimg {
+  background-color: #aaa;
+  width: 100%;
+  padding: 20px;
+}
+
+/* Clear floats after the columns */
+/*
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - when the screen is less than 800px wide,
+ make the two columns stack on top of each other instead of next to each other */
+  /*
+@media screen and (max-width: 800px) {
+  .leftcolumn, .rightcolumn {
+    width: 100%;
+    padding: 0;
+  }
+}
+
+/* Responsive layout - when the screen is less than 400px wide,
+ make the navigation links stack on top of each other instead of next to each other */
+  /*
+@media screen and (max-width: 400px) {
+  .topnav a {
+    float: none;
+    width: 100%;
+  }
+}
+
+.eventcontainer {
+  border: 2px solid #ccc;
+  background-color: #eee;
+  border-radius: 25px;
+  padding: 12px;
+  margin: 16px 0;
+}
+
+.eventcontainer::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.eventcontainer img {
+  float: left;
+  margin-right: 20px;
+  border-radius: 50%;
+}
+
+.eventcontainer span {
+  font-size: 20px;
+  margin-right: 15px;
+}
+
+@media (max-width: 500px) {
+  .eventcontainer {
+    text-align: center;
+  }
+  .eventcontainer img {
+    margin: auto;
+    float: none;
+    display: block;
+  }
+}
+.overflow {
+  background-color: rgba(150,150,150,.5);
+  padding: 20px;
+  margin-top: 20px;
+  width: 50%;
+  height: 800px;
+  overflow: auto;
+}
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 15px;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+@media screen and (max-width:600px) {
+.column {
+  width: 100%;
+}
+}
+  */

@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  course: one
+  gamedatetime: 2018-06-09 21:38:13
+  score: 1
+
+two:
+  user: two
+  course: two
+  gamedatetime: 2018-06-09 21:38:13
+  score: 1
