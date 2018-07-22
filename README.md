@@ -1,7 +1,7 @@
 # README
-This is a continuation of a practicum project 
-from Franklin University.  
+This is a continuation of a Franklin University practicum project
 
-# Worked on by
-# Andrew Sisinger
-# Melissa Radi
+Worked on by:
+Melissa Radi
+Brock Schoenbeck
+Andy Sisinger
